@@ -2,7 +2,10 @@
 🤖 ROMGA
 (Código principal: app.py)
 
-Video: https://www.instagram.com/reel/DKLKMY_KRp2/?igsh=NncwdmRjb282Y2hq
+Videos en instagram: 
+https://www.instagram.com/p/DKLKMY_KRp2/
+https://www.instagram.com/p/DKSTXW8xDTl/?img_index=1
+https://www.instagram.com/p/DKR1OItxHSx/?img_index=1
 
 *Raspberry Pi 4
 *Computer vision
