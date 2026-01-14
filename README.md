@@ -1,6 +1,7 @@
 # ROMGA
 🤖 ROMGA
 (Código principal: app.py)
+
 Video: https://www.instagram.com/reel/DKLKMY_KRp2/?igsh=NncwdmRjb282Y2hq
 
 *Raspberry Pi 4
