@@ -60,4 +60,4 @@ Interfaz hombre–máquina accesible vía navegador web
 
 🎯 Objetivo del proyecto
 
-Desarrollar un robot móvil robusto, confiable y adaptable, capaz de operar en entornos reales en universidades, de logística, investigación o automatización, integrando visión artificial y control inteligente.
+Desarrollar un robot móvil robusto, confiable y adaptable, capaz de operar en entornos reales de universidades, logística, investigación o automatización, integrando visión artificial y control inteligente.
